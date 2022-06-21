@@ -1,0 +1,22 @@
+{
+	"author": 'PWin',
+	"name": "fcc-learn-npm-package-json",
+	"description": "this thing does something awesome",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"keywords": [
+		"freecodecamp",
+		"backend challenges"
+	],
+	"license": "MIT",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	},
+	"version": "1.0"
+}
